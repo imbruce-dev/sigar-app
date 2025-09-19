@@ -1,0 +1,2 @@
+C:/Users/Utilisateur/Downloads/Application Mobile/sigar/sigarfrontend/android/app/.cxx/Debug/6f2r3p10/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Utilisateur/Downloads/Application Mobile/sigar/sigarfrontend/android/app/.cxx/Debug/6f2r3p10/x86_64/CMakeFiles/rebuild_cache.dir

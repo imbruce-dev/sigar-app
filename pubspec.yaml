@@ -1,0 +1,101 @@
+name: sigar
+description: "SIGAR - Traffic Fine Management Application for France and Luxembourg"
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  font_awesome_flutter: ^10.4.0
+  flutter_svg: ^2.0.7
+  shared_preferences: ^2.0.17
+  http: ^1.2.2
+  lottie: ^3.1.2
+  image_picker: ^1.1.2
+  path_provider: ^2.0.11
+  permission_handler: ^11.3.1
+  intl: ^0.19.0
+  share_plus: ^10.0.2
+  flutter_launcher_icons: ^0.13.1
+
+  firebase_core: ^3.6.0
+  firebase_messaging: ^15.1.3
+  flutter_local_notifications: ^17.2.3
+  google_mlkit_text_recognition: ^0.12.0
+  camera: ^0.10.5+7
+
+
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0 # Mise à jour vers la dernière version stable
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "lib/assets/images/app_icon.png"
+  adaptive_icon_background: "lib/assets/images/app_icon_background.png"
+  adaptive_icon_foreground: "lib/assets/images/app_icon_foreground.png"
+  remove_alpha_ios: true
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/assets/images/logobluesigar.png
+    - lib/assets/images/step1.png
+    - lib/assets/images/step2.png
+    - lib/assets/images/step3.png
+    - lib/assets/images/logo-whitesigar.png
+    - lib/assets/images/luxembourg_flag.png
+    - lib/assets/images/france_flag.png
+    - lib/assets/images/CIGAR_accueil.png
+    - lib/assets/images/mesvehicules.png
+    - lib/assets/images/model 1.png
+    - lib/assets/images/model 2.png
+    - lib/assets/images/model 3.png
+    - lib/assets/images/model 4.png
+    - lib/assets/images/model 5.png
+    - lib/assets/images/model 6.png
+    - lib/assets/images/model 7.png
+    - lib/assets/images/model 8.png
+    - lib/assets/images/sigar_profil_user.png
+    - lib/assets/svg/logos--visa.svg
+    - lib/assets/svg/logos--mastercard.svg
+    - lib/assets/svg/logos--paypal.svg
+    - lib/assets/svg/hugeicons--customer-support.svg
+    - lib/assets/svg/hugeicons--home-01.svg
+    - lib/assets/svg/hugeicons--settings-01.svg
+    - lib/assets/svg/lets-icons--e-mail.svg
+    - lib/assets/svg/mdi--shield-lock.svg
+    - lib/assets/svg/mingcute--car-2-line.svg
+    - lib/assets/svg/octicon--lock-24.svg
+    - lib/assets/svg/mingcute--car-3-fill.svg
+    - lib/assets/svg/mdi--car-search.svg
+    - lib/assets/svg/mage--notification-bell-pending.svg
+    - lib/assets/svg/fluent--chat-12-filled.svg
+    - lib/assets/svg/iconamoon--profile.svg
+    - lib/assets/svg/hugeicons--credit-card.svg
+    - lib/assets/svg/material-symbols-light--language.svg
+    - lib/assets/svg/solar--documents-line-duotone.svg
+    - lib/assets/svg/mdi--security.svg
+    - lib/assets/svg/fluent--share-28-regular.svg
+    - lib/assets/svg/ci--log-out.svg
+    - lib/assets/svg/quill--creditcard.svg
+    - lib/assets/animations/Animation - 1727152190473.json
+    - lib/assets/animations/f7lPpYl4S7.json
+    - lib/assets/animations/yf7F5yWBlV.json
+    - lib/assets/animations/ti9izU3A8T.json
+    - lib/assets/svg/icon-park-solid--add.svg
+    - lib/assets/svg/fontisto--paypal.svg
+    - lib/assets/svg/ion--card.svg
+    - lib/assets/svg/mingcute--bank-line.svg
+    - lib/assets/images/payementsuccess.svg

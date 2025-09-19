@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "37056920650",
+    "project_id": "sigar-d063d",
+    "storage_bucket": "sigar-d063d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37056920650:android:b761189662a3f869347ab3",
+        "android_client_info": {
+          "package_name": "com.example.sigarfrontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2kSH01hjjmQ2mEfBuTsDHdhNyvB1UoIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37056920650:android:0c725a4a63d20857347ab3",
+        "android_client_info": {
+          "package_name": "io.sigar.sigar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2kSH01hjjmQ2mEfBuTsDHdhNyvB1UoIs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
