@@ -15,7 +15,7 @@ if (keystorePropertiesFile.exists()) {
 }
 
 android {
-    namespace = "com.example.sigarfrontend"
+    namespace = "io.sigar.sigar"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 

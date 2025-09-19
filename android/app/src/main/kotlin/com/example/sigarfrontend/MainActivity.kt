@@ -1,4 +1,4 @@
-package com.example.sigarfrontend
+package io.sigar.sigar
 
 import io.flutter.embedding.android.FlutterActivity
 

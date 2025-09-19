@@ -8,7 +8,7 @@
 PRODUCT_NAME = sigarfrontend
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.sigarfrontend
+PRODUCT_BUNDLE_IDENTIFIER = io.sigar.sigar
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2024 com.example. All rights reserved.
