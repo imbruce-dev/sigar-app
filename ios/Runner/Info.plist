@@ -46,13 +46,11 @@
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
 
-	
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>remote-notification</string>
 	</array>
 
-	
 	<key>NSCameraUsageDescription</key>
 	<string>La caméra est utilisée pour scanner et reconnaître du texte (PV, plaques).</string>
 	<key>NSPhotoLibraryUsageDescription</key>
@@ -60,6 +58,7 @@
 	<key>NSPhotoLibraryAddUsageDescription</key>
 	<string>La photothèque est utilisée pour enregistrer des images si nécessaire.</string>
 
-
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
 </dict>
 </plist>
