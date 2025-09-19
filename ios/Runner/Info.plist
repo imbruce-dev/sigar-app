@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>Sigarfrontend</string>
+	<string>SIGAR</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -45,5 +45,21 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+
+	
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>remote-notification</string>
+	</array>
+
+	
+	<key>NSCameraUsageDescription</key>
+	<string>La caméra est utilisée pour scanner et reconnaître du texte (PV, plaques).</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>La photothèque est utilisée pour sélectionner des images à analyser.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>La photothèque est utilisée pour enregistrer des images si nécessaire.</string>
+
+
 </dict>
 </plist>
