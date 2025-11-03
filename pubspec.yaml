@@ -22,14 +22,15 @@ dependencies:
   path_provider: ^2.0.11
   permission_handler: ^12.0.1
   intl: ^0.20.2
-  share_plus: ^12.0.0
+  share_plus: ^10.0.0
   flutter_launcher_icons: ^0.14.4
 
   firebase_core: ^4.1.0
   firebase_messaging: ^16.0.1
   flutter_local_notifications: ^19.4.2
   google_mlkit_text_recognition: ^0.15.0
-  camera: ^0.11.2
+  camera: ^0.11.2+1
+
 
 
   
@@ -37,8 +38,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^5.0.0 # Mise à jour vers la dernière version stable
-
+  flutter_lints: ^5.0.0
 flutter_launcher_icons:
   android: true
   ios: true
