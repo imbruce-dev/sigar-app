@@ -2,7 +2,7 @@ name: sigar
 description: "SIGAR - Traffic Fine Management Application for France and Luxembourg"
 publish_to: "none"
 
-version: 1.0.0+2
+version: 1.0.0+3
 
 
 environment:
