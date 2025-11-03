@@ -53,6 +53,8 @@
 
 	<key>NSCameraUsageDescription</key>
 	<string>La caméra est utilisée pour scanner et reconnaître du texte (PV, plaques).</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Le micro est utilisé uniquement si vous enregistrez des vidéos.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>La photothèque est utilisée pour sélectionner des images à analyser.</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
