@@ -36,3 +36,13 @@ class _StartupPageState extends State<StartupPage> {
     );
   }
 }
+
+
+class _StartupPageState extends State<StartupPage> {
+  Widget build(BuildContext BuildContext)
+
+
+
+
+
+}
